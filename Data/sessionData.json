@@ -1,0 +1,37 @@
+[
+    {
+        "sessionId": "CP0xGdvgNBFysJ4s7_0UE5qJwaKgivHC",
+        "actionNum": 1,
+        "actionType": "HomePage"
+    },
+    {
+        "sessionId": "jVNZWSHZG2ePEWS0Qi60cMBZNjLCvfL7",
+        "actionNum": 1,
+        "actionType": "HomePage"
+    },
+    {
+        "sessionId": "jVNZWSHZG2ePEWS0Qi60cMBZNjLCvfL7",
+        "actionNum": 2,
+        "actionType": "HomePage"
+    },
+    {
+        "sessionId": "jVNZWSHZG2ePEWS0Qi60cMBZNjLCvfL7",
+        "actionNum": 3,
+        "actionType": "Film by Id serch"
+    },
+    {
+        "sessionId": "jVNZWSHZG2ePEWS0Qi60cMBZNjLCvfL7",
+        "actionNum": 4,
+        "actionType": "Film by Id serch"
+    },
+    {
+        "sessionId": "jVNZWSHZG2ePEWS0Qi60cMBZNjLCvfL7",
+        "actionNum": 5,
+        "actionType": "Getting User's films"
+    },
+    {
+        "sessionId": "jVNZWSHZG2ePEWS0Qi60cMBZNjLCvfL7",
+        "actionNum": 6,
+        "actionType": "Getting User's films"
+    }
+]
